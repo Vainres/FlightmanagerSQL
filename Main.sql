@@ -96,7 +96,7 @@ INSERT INTO KhachHang VALUES('10002001','Nữ','Lữ Minh Anh','6/9/2001','Thư�
 INSERT INTO KhachHang VALUES('10002001','Nam','Trần Quang Minh','4/5/1992','Thân Thiết','0956372819','Bắc Giang','Minh246@gmail.com','167281104832')
 //INSERT TABLE NHANVIEN
 
-INSERT INTO NhanVien VALUES('MaNV','TenNV','STD','DiaChi','ChucVu','CCCD')
+
 INSERT INTO NhanVien VALUES('10001','Hà Kim Ngọc','0849362118','TP HCM','Thu Ngân','674827564821')
 INSERT INTO NhanVien VALUES('10002','Trịnh Đình Quang','0647735218','TP HCM','Thu Ngân','674864900982')
 INSERT INTO NhanVien VALUES('10003','Đinh Gia Huy','0658893220','TP HCM','Thu Ngân','671520564821')
