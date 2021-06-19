@@ -1,0 +1,71 @@
+[33mcommit 5760b1bf3c288cb88e14aba6115badab3ab9f332[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Sat Jun 19 11:45:09 2021 +0700
+
+    ADD ALL TRIGGER AND FIX ALL DATABASES
+
+[33mcommit 6c66b54a46d10ec2e4aefa23fd0153b581923dc1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Sat Jun 12 21:47:50 2021 +0700
+
+    Bo qlve sua lai hoan chinh them trigger
+
+[33mcommit 8b7c3e058fdd766569ce446d0da9ce25850a070b[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Thu Jun 10 23:40:33 2021 +0700
+
+    Sai ma ve ,sai gia,chua them gia vao chuyen bay
+
+[33mcommit a222f7eb5e0eddaa774445ea452cf8dc00b2cbbc[m
+Author: Cules1017 <85246932+Cules1017@users.noreply.github.com>
+Date:   Thu Jun 10 22:10:36 2021 +0700
+
+    Update Main.sql
+
+[33mcommit b149d277e4066184ace3e5231e04848d97421c62[m
+Author: Cules1017 <85246932+Cules1017@users.noreply.github.com>
+Date:   Thu Jun 10 21:19:26 2021 +0700
+
+    Update Main.sql
+
+[33mcommit 593183c54dcc37e67ce3f611f7cfacdeabb152bd[m
+Author: Cules1017 <85246932+Cules1017@users.noreply.github.com>
+Date:   Thu Jun 10 20:56:27 2021 +0700
+
+    Update Main.sql
+
+[33mcommit 67c1e6c89e58d9add3738556d72a1a19db64d53d[m
+Author: Cules1017 <85246932+Cules1017@users.noreply.github.com>
+Date:   Thu Jun 10 20:54:52 2021 +0700
+
+    Update Main.sql
+
+[33mcommit abcc708417e717088ccd2970b4f8bd32742e9ea9[m
+Author: Vainres <64851127+Vainres@users.noreply.github.com>
+Date:   Thu Jun 10 17:57:45 2021 +0700
+
+    Add Trigia to CTHD
+
+[33mcommit 80e1eade1055d83de3df82abe5ef38ef06338d60[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Wed Jun 9 23:18:17 2021 +0700
+
+    Create All databases
+
+[33mcommit 36a37d8692fc60687db6c80b863554f6cf31a055[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Tue Jun 8 23:05:10 2021 +0700
+
+    Them 1 vai database
+
+[33mcommit 377b230313ba44dd5790ceb9ace56f80e330e57a[m
+Author: Vainres <nhan6k3@gmail.com>
+Date:   Wed Jun 2 23:06:54 2021 +0700
+
+    Them file quan li chinh
+
+[33mcommit 7d344e5bb6850123d6eaccd2a9845395a14a1211[m
+Author: Vainres <64851127+Vainres@users.noreply.github.com>
+Date:   Wed Jun 2 22:58:12 2021 +0700
+
+    Initial commit
